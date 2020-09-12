@@ -1,0 +1,4 @@
+<form action="upload.php" method="post" enctype="multipart/form-data"> <!-- enctype ใช้ส่งไฟล์ -->
+    <input type="file" name="file">
+    <input type="submit" value="upload" name="submit">
+</form>
